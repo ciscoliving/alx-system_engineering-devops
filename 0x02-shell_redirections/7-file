@@ -1,2 +1,2 @@
 #!/bin/bash
-ech "Best School" | cat > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+ech "Best School"  > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
